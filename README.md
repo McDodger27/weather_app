@@ -20,4 +20,4 @@ Check out the official google home page here:
 
 [google](https://google.com)
 
-![Rick Astley](D:\DavisTech\SoftwareDevelopment\rick)
+![Rick Astley](rick)
